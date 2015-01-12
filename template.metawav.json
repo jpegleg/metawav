@@ -1,0 +1,21 @@
+{ "Metadata": {
+    "METAWAV": "Version 1.0",
+    "Artist": "",
+    "Album": "",
+    "Track": "",
+    "Year": "",
+    "Library": "",
+    "User": "",
+    "Length": "",
+"Sample Rate": "",
+   "Playlist": "",
+"Rendered In": "",
+   "Purpose": "Non application specific WAV file metadata management with appended JSON.",
+     "Genre": "",
+     "Client": "",
+    "Project": "METAWAV",
+     "Notes": "Metadata made and managed by  METAWAV.",
+"File Path": "",
+"File Size": ""
+    }
+}
