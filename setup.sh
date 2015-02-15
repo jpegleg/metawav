@@ -9,7 +9,7 @@ echo "...got em." &&
 
 echo "Installing..." &&
 cp ./metawav.sh /usr/bin/metawav &&
-mkdir -p $HOME/wav-archive/log &&
+mkdir -p $HOME/wav-archive/.log &&
 cp template.metawav.json $HOME/wav-archive/ &&
 
 echo "Ready to rock." 
