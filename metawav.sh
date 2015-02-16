@@ -17,7 +17,7 @@ done
 
 function append () {
 for x in $(ls ~/wav-archive/ ); do
-  echo $(date +'%m%d%Y') >> ~/wav-log/run.log;
+  echo $(date +'%m%d%Y%H%m%s') >> ~/wav-log/run.log;
   echo "Appending $x" >> ~/wav-log/run.log;
   cd ~/wav-archive/
   y=$(cat "$x" ~/wav-json/"$template")
