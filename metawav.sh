@@ -3,7 +3,6 @@
 mkdir -p ~/wav-archive > /dev/null
 mkdir -p ~/wav-log > /dev/null
 mkdir -p ~/wav-json > /dev/null
-e
 
 function readconf () {
 echo "$(date) Metawav - Reading your JSON files in ~/wav-archive/.log/"
