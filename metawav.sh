@@ -29,11 +29,3 @@ done
 readconf
 
 append
-
-
-# More functions and some kind of logic sequence will happen some day.
-# For now, simple.
-
-readconf &&
-
-append
